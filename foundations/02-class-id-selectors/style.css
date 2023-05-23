@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-.odd-number.el3{
-    font-size: 24px;
+.font-change{
+    font-size:24px;
 }
 
 #el4{
     background-color: hsl(152,73%,84%);
-    font-size:24px;
     font-weight: bold;
 }
